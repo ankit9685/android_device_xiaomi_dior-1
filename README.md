@@ -20,3 +20,5 @@ Bluetooth | v4.0, A2DP, LE
 USB | microUSB v2.0, USB Host
 Sensors | Accelerometer, gyro, proximity, compass
 Battery | Li-Ion 3100 mAh battery
+redmi note 10s RAM 15GB
+
