@@ -1,3 +1,6 @@
+<html><marquee>
+<center><h1>readmi phone 12 note pro 128gb rom price:18000rs inr only/-</h1></center>
+  </marquee></html>
 Quick specs for Xiaomi Redmi Note 10 pro
 ---------------------------------------
 
