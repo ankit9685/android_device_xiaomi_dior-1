@@ -1,7 +1,7 @@
 Quick specs for Xiaomi Redmi Note 10 pro
 ---------------------------------------
 
-![Redmi Note 4g]https://www.amazon.in/Test-Exclusive_2020_1154-Multi-3GB-Storage/dp/B089MTR9K7/ref=asc_df_B089MTR9K7/?tag=googleshopdes-21&linkCode=df0&hvadid=397083255509&hvpos=&hvnetw=g&hvrand=15285987866114327753&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062189&hvtargid=pla-1217023281052&psc=1&ext_vrnc=hi")
+![https://www.mi.com/in/?utm_source=google&utm_medium=cpc&utm_campaign=[A_Br_SEM_Generic_DM-B_SEM_Generic_MiBrnad_DWM_CPC_Mstore_20211001&gclid=Cj0KCQiA9OiPBhCOARIsAI0y71CYW9LPe3ONAica-h6l7zNF7VD-YMVUupdTOKPjSVF1zKr5R9YZyvkaAvRhEALw_wcB")
 
 Basic   | Spec Sheet
 -------:|:-------------------------
