@@ -1,7 +1,7 @@
 Quick specs for Xiaomi Redmi Note 10 pro
 ---------------------------------------
 
-![https://www.mi.com/in/?utm_source=google&utm_medium=cpc&utm_campaign=[A_Br_SEM_Generic_DM-B_SEM_Generic_MiBrnad_DWM_CPC_Mstore_20211001&gclid=Cj0KCQiA9OiPBhCOARIsAI0y71CYW9LPe3ONAica-h6l7zNF7VD-YMVUupdTOKPjSVF1zKr5R9YZyvkaAvRhEALw_wcB")
+![https://www.gsmarena.com/xiaomi_redmi_note_10_pro-pictures-10662.php")
 
 Basic   | Spec Sheet
 -------:|:-------------------------
