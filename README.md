@@ -1,5 +1,5 @@
 <html><marquee>
-<center><h1>readmi phone 12 note pro 128gb rom price:18000rs inr only/-</h1></center>
+<center><h1>readmi phone 12 note pro 128gb rom price:**18000RS **IN**R ONLY**/-</h1></center>
   </marquee></html>
 Quick specs for Xiaomi Redmi Note 10 pro
 ---------------------------------------
@@ -25,5 +25,5 @@ Sensors | Accelerometer, gyro, proximity, compass
 Battery | Li-Ion 3100 mAh battery
 redmi note 10s RAM 15GB
 <html>
-<center><h1>readmi phone 12 note pro 128gb rom price:18000rs inr only/-</h1></center>
+<center><h1>readmi phone 12 note pro 128gb rom price:18000RS INR ONLY/-</h1></center>
 </html>
